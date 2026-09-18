@@ -21,6 +21,9 @@ x86/
 *.tmp
 *.cache
 
+.vcxproj
+.vcxproj.filters
+
 # CMake
 out/
 
